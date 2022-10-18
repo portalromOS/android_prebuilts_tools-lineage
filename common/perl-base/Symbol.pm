@@ -58,7 +58,7 @@ sub qualify_to_ref ($;$) {
 }
 
 #
-# of Safe.pm lineage
+# of Safe.pm portalrom
 #
 sub delete_package ($) {
     my $pkg = shift;
